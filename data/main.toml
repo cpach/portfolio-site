@@ -1,0 +1,35 @@
+[[projects]]
+full_name = "Acme Inc"
+short_name = "acme-inc"
+
+[[projects]]
+full_name = "Awesome Hardware Project"
+short_name = "awesome-hardware"
+
+[[projects]]
+full_name = "Cat Shelter"
+short_name = "cat-shelter"
+
+[[projects]]
+full_name = "Cathode Ray Mission"
+short_name = "cathode-ray"
+
+[[projects]]
+full_name = "My nephew’s lemonade stand"
+short_name = "lemonade-stand"
+
+[[projects]]
+full_name = "Thyrell Corporation"
+short_name = "thyrell-corp"
+
+[[projects]]
+full_name = "Vandelay Industries"
+short_name = "vandelay-industries"
+
+[[projects]]
+full_name = "Wonka Industries"
+short_name = "wonka-industries"
+
+[[projects]]
+full_name = "My first project"
+short_name = "first-project"

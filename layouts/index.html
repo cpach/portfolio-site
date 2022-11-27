@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{.Content}}
+
+<section id="project-list">
+{{ range $.Site.Data.main.projects }}
+  <div><a href="/project/{{ .short_name }}/">{{ .full_name }}</a></div>
+{{ end }}
+</ul>
+
+{{ end }}

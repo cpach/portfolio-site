@@ -1,0 +1,6 @@
+baseURL = "https://johndoe.example.com/"
+languageCode = "en-us"
+title = "John Doe"
+
+[taxonomies]
+  tag = "tags"

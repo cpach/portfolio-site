@@ -1,0 +1,15 @@
+html {
+  max-width: 75ch;
+  padding: 3em 1em;
+  margin: auto;
+  line-height: 1.5;
+  font-size: 1.40em;
+  font-family: "Helvetica", sans-serif;
+}
+
+#project-list {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
